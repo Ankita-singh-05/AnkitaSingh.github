@@ -1,5 +1,8 @@
 # SHAPEAI WEB DEV BOOTCAMP
 
+    
+## Check out the link for the website - 
+[https://ankita-singh-05.github.io/Dwayne-Johnson-Portfolio-Website/](https://ankita-singh-05.github.io/Dwayne-Johnson-Portfolio-Website/)
 
 
 Hi I made this project during the 7 Days Free Bootcamp, conducted by <b> SHAPEAI </b>.
@@ -29,6 +32,4 @@ or follow SHAPEAI on:
   <li><a href="https://github.com/shapeai">GitHub</a>
     
     
-    
-## Check out the link for the website - 
-[https://ankita-singh-05.github.io/Dwayne-Johnson-Portfolio-Website/](https://ankita-singh-05.github.io/Dwayne-Johnson-Portfolio-Website/)
+
